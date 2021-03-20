@@ -2,4 +2,4 @@
 simple html5 and css3 one page template.
 
 
-![](img/Capture.PNG)
+![](img/Capture.JPG)
